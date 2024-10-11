@@ -19,3 +19,5 @@ The Algorithms which have been implemented are:
       b) Gradient Descent 
 
   3- Decision Tree Classifier
+
+  4- Random Forest
