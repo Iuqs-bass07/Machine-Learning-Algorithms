@@ -17,3 +17,5 @@ The Algorithms which have been implemented are:
       a) Perceptron Trick
       
       b) Gradient Descent 
+
+  3- Decision Tree Classifier
