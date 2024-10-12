@@ -21,3 +21,5 @@ The Algorithms which have been implemented are:
   3- Decision Tree Classifier
 
   4- Random Forest
+
+  5- AdaBoost
