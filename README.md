@@ -23,3 +23,10 @@ The Algorithms which have been implemented are:
   4- Random Forest
 
   5- AdaBoost
+
+  6- Gradient Boosting
+  
+      a) Gradient Boosting Regression
+      
+      b) Gradient Boosting Classification
+  
