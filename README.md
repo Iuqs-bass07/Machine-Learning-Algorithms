@@ -25,6 +25,8 @@ The Algorithms which have been implemented are:
   5- AdaBoost
 
   6- Gradient Boosting
+
+  7- XGBoost
   
       a) Gradient Boosting Regression
       
