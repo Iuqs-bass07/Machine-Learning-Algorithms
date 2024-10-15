@@ -1,8 +1,8 @@
-# This repo contains the implementation of the KNN. It is very intuitive and simple algorithm which works on the fact that the behaviour of a point in a multidimension space depends upon the behaviour of its neighbours
+#### This repo contains the implementation of the KNN. It is very intuitive and simple algorithm which works on the fact that the behaviour of a point in a multidimension space depends upon the behaviour of its neighbours
 
-# KNN Has been inplemented in parts
+##### KNN Has been inplemented in parts
 
-# Decision Metric Class
+###### Decision Metric Class
 
 This parts Calculate the different kinds of distance which KNN uses to find the nearest neighbour
 
@@ -14,7 +14,7 @@ This parts Calculate the different kinds of distance which KNN uses to find the 
 
   4- Hamming
 
-# KNN Class
+###### KNN Class
 
   1- Training
   
