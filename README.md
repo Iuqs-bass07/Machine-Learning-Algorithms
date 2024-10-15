@@ -31,3 +31,5 @@ The Algorithms which have been implemented are:
       b) Gradient Boosting Classification
   
   7- XGBoost
+
+  8- KNN
