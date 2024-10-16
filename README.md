@@ -33,3 +33,5 @@ The Algorithms which have been implemented are:
   7- XGBoost
 
   8- KNN
+
+  9- KMeans
