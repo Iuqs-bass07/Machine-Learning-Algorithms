@@ -35,3 +35,5 @@ The Algorithms which have been implemented are:
   8- KNN
 
   9- KMeans
+
+  10- SVM
